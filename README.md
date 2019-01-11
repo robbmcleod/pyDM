@@ -23,9 +23,5 @@ pyDM.pyb -> <PYTHONPATH>
 
 See the pyDMPipeline.pdf for detailed notes.
 
-Sample vcproj files are provided for Visual Studio 2005 (which is required).  Also a relatively older version of Boost
-is required.  See the 
-
-
-
-
+Sample vcproj files are provided for Visual Studio 2008 (which is required).  Also a relatively older version of Boost
+is required.  See the build notes for details.
